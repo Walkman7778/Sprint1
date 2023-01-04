@@ -1,0 +1,52 @@
+Inside string package create a java class StringUsage with the main method and add the following private methods:
+-Convert phrase to uppercase;
+-Convert phrase to lowercase;
+-Determine phrase length;
+-Count the consonants and vowels in the phrase;
+-Count the number of words in a phrase;
+-Find the word having maximum length in the phrase;
+-Find the word having minimum length in the phrase;
+-Find all duplicate words in a phrase.
+
+TOUPPER
+INSIDE STRING PACKAGE CREATE A JAVA CLASS STRINGUSAGE WITH THE MAIN METHOD AND ADD THE FOLLOWING PRIVATE METHODS:
+-CONVERT PHRASE TO UPPERCASE;
+-CONVERT PHRASE TO LOWERCASE;
+-DETERMINE PHRASE LENGTH;
+-COUNT THE CONSONANTS AND VOWELS IN THE PHRASE;
+-COUNT THE NUMBER OF WORDS IN A PHRASE;
+-FIND THE WORD HAVING MAXIMUM LENGTH IN THE PHRASE;
+-FIND THE WORD HAVING MINIMUM LENGTH IN THE PHRASE;
+-FIND ALL DUPLICATE WORDS IN A PHRASE.
+
+toLower
+inside string package create a java class stringusage with the main method and add the following private methods:
+-convert phrase to uppercase;
+-convert phrase to lowercase;
+-determine phrase length;
+-count the consonants and vowels in the phrase;
+-count the number of words in a phrase;
+-find the word having maximum length in the phrase;
+-find the word having minimum length in the phrase;
+-find all duplicate words in a phrase.
+
+lengh=431
+numbOfVowels=121
+numbOfConsonates=223
+numbOfWords=70
+maxLenghtWord: StringUsage
+minLenghtWord: a
+allDuplicateWords : phrase;
+-Find
+having
+in
+phrase
+word
+-Convert
+-Count
+and
+a
+words
+length
+the
+to

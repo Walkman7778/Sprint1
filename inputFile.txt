@@ -1,0 +1,9 @@
+Inside string package create a java class StringUsage with the main method and add the following private methods:
+-Convert phrase to uppercase;
+-Convert phrase to lowercase;
+-Determine phrase length;
+-Count the consonants and vowels in the phrase;
+-Count the number of words in a phrase;
+-Find the word having maximum length in the phrase;
+-Find the word having minimum length in the phrase;
+-Find all duplicate words in a phrase.
