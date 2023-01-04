@@ -162,7 +162,7 @@ public class StringUsage {
        //I inculded  in  HashSet list of double words from set String
        Set<String> doubleWords = new HashSet<String>(list);
        String strTemp = "";
-       //Pssing HashSet and determining doubleWords
+       //Passing HashSet and determining doubleWords
        for (String word : doubleWords)
            //Condition for repeating words if repeats >1 then true
            if (Collections.frequency(list, word)>1) {
